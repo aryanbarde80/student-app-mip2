@@ -30,6 +30,7 @@ This app is designed to simplify student and teacher tasks like managing attenda
 ## 🤝 Credits
 Special thanks to our amazing team:
 - Aryan Barde
+- Aryan Soni
 - Anjali Raikwar
 - Anchal Teepa
 
