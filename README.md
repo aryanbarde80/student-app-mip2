@@ -4,7 +4,7 @@ Welcome to the **Beta Release** of our Student Utility App!
 This app is designed to simplify student and teacher tasks like managing attendance, marks, and more.
 
 ## 🔗 Download the APK
-👉 [Download the latest APK here](https://drive.google.com/your-apk-link)  
+👉 [Download the latest APK here](https://github.com/aryanbarde80/student-app-mip2/releases/download/v0.1.0-beta/app-debug.apk)  
 
 > 📥 Click the link above to download and install the APK on your Android device.
 
